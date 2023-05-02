@@ -14,5 +14,7 @@ Install dnssec
   eg:
   python3 dnssec.py 9.9.9.9 iamsharan.com
 ```
+
+### Sample 
     
-    
+![Screenshot 2023-05-02 at 11 56 41 PM](https://user-images.githubusercontent.com/100226024/235753171-cebe57fa-a55e-4d1c-ae0b-f99260da3405.png)
